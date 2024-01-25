@@ -1,6 +1,6 @@
 # The Code Lexicon
 
-Utilize OpenAI to translate code from one language to another.
+Utilizes OpenAI to translate code from one language to another.
 
 ![Code Lexicon](./public/screenshot.png)
 
@@ -9,7 +9,7 @@ Utilize OpenAI to translate code from one language to another.
 **1. Clone Repository**
 
 ```bash
-git clone https://github.com/mckaywrigley/ai-code-translator.git
+git clone https://github.com/DavidMcConkey/Code-Lexicon
 ```
 
 **2. Install Dependencies**
